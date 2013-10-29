@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cf09bbe4-be8a-4ff9-bb9b-fe2499cfc1d3" name="Default" comment="" />
+    <list default="true" id="cf09bbe4-be8a-4ff9-bb9b-fe2499cfc1d3" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="prog25.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/prog25.java" changelist="cf09bbe4-be8a-4ff9-bb9b-fe2499cfc1d3" time="1382934905375" ignored="false" />
@@ -69,7 +71,7 @@
       <file leaf-file-name="prog25.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/prog25/prog25.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="43" column="0" selection-start="677" selection-end="677" vertical-scroll-proportion="1.2076272">
+            <state line="40" column="8" selection-start="608" selection-end="608" vertical-scroll-proportion="0.6504237">
               <folding />
             </state>
           </provider>
@@ -367,7 +369,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="10" y="22" width="1648" height="974" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290398" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -376,7 +378,7 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="JRebel Executor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JRebel Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.4145199" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.4145199" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.4145199" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -473,7 +475,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/prog25/prog25.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="43" column="0" selection-start="677" selection-end="677" vertical-scroll-proportion="1.2076272">
+        <state line="40" column="8" selection-start="608" selection-end="608" vertical-scroll-proportion="0.6504237">
           <folding />
         </state>
       </provider>
