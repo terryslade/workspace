@@ -17,27 +17,26 @@ public static void main(String[] args){
 	System.out.println("What is your numerical grade?");
 	grade = Keyboard.nextInt();
 
-
+	grade = (grade/10);
 
 
 	switch (grade){
-		case 100:
+		case 9:
 			System.out.println("Your grade is an A.");
 			break;
-		case 89:
+		case 8:
 			System.out.println("Your grade is a B.");
 			break;
-		case 79:
+		case 7:
 			System.out.print("Your grade is a C.");
 			break;
-		case 69:
+		case 6:
 			System.out.print("Your grade is a D.");
 			break;
-		case 59:
+		default:
 			System.out.print("Unfortunately, your grade is an F.");
 			break;
-		default:
-			break;
+
 
 	}
 
