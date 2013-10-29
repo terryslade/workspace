@@ -40,6 +40,7 @@ public class prog25 {
 			if (grade < 59)
 		{
 					System.out.println("Unfortunately, your grade is an F.");
+
 		}
 
 	}
