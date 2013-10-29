@@ -1,0 +1,52 @@
+package prog27;
+
+import java.util.Scanner;
+
+public class prog27 {
+
+	
+
+public static void main (String[] args) {
+	int a;
+    int b;
+    int c;
+    int D;
+    double solve1;
+    double solve2;
+    
+    Scanner Keyboard = new Scanner(System.in);
+    
+    System.out.println("What is A equal to?");
+    a = Keyboard.nextInt();
+    
+    System.out.println("What is B equal to?");
+    b = Keyboard.nextInt();
+    
+    System.out.println("What is C equal to?");
+    c = Keyboard.nextInt();
+    
+    D = b^2-4*a*c;
+    
+    solve1 = ((b*-1)+ Math.sqrt(D)/2*a);
+    solve2 = ((b*-1)- Math.sqrt(D)/2*a);
+    
+    if (a==0){
+        if (b==0)
+            if (c==0)
+                System.out.println("All Solutions");
+            else
+                System.out.println("No Solutions");
+        else if (b==0)
+            System.out.println("One solution x= " + c*-1/b);
+        else if (a==0)
+           if (D<0)
+            System.out.println("No Solution");
+        	if (D==0)
+            System.out.println("Duplicate Solution x= " + b*-1/2*a);
+        else
+            System.out.println("Two Solutions " + "x1= " + solve1 + ", " + "x2= " + solve2 );
+     
+                    
+    }
+}
+}
